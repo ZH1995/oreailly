@@ -57,7 +57,7 @@ oraiily books collection
 |2021|《混沌工程：复杂系统韧性实现之道》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68273-8|
 |2021|《React学习手册（第二版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5654-0|
 |2021|《Node与Express开发（第2版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-56509-9|
-|2021|《Kubernetes即学即用（第二版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5676-2|
+|2021|《Kubernetes即学即用（第二版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5676-2||✔️|
 |2021|《Web应用程序安全》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5480-5|
 |2021|《协同产品设计》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5329-7|
 |2021|《Kubernetes编程》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5479-9|
