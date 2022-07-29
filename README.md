@@ -163,7 +163,7 @@ oraiily books collection
 |2019|《RxJava反应式编程》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-52400-3|
 |2019|《基于Python的智能文本分析》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-3829-4|
 |2019|《商战数据挖掘：你需要了解的数据科学与分析思维》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-52233-7|
-|2019|《管理Kubernetes》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4010-5|
+|2019|《管理Kubernetes》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4010-5||✔️|
 |2019|《SEO艺术（第3版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-121-32638-7|
 |2019|《SQL与关系数据库理论（第三版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-3516-3|
 |2019|《CSS速查手册（第五版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-3655-9|
