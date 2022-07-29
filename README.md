@@ -125,7 +125,7 @@ oraiily books collection
 |2020|《Kotlin编程实践》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-65962-4|
 |2020|《卓越产品管理：产品经理如何打造客户真正需要的产品》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-52664-9|
 |2020|《基于PyTorch的自然语言处理》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4598-8|
-|2020|《Kubernetes设计模式》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4588-9|
+|2020|《Kubernetes设计模式》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4588-9||✔️|
 |2020|《设计冲刺：5天实现产品创新》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-54081-2|
 |2020|《Kali Linux学习手册》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-4603-9|
 |2020|《大规模数据分析和建模：基于Spark与R》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-66101-6|
