@@ -1,8 +1,8 @@
 # oreailly
 oraiily books collection
 
-|年份|书名|链接|状态|中文|英文
-|--|--|--|--|--|--|
+|年份|书名|链接|中文|英文
+|--|--|--|--|--|
 |2022|《Cassandra权威指南（第三版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6643-3|
 |2022|《数据自助服务实践指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70385-3|
 |2022|《Go语言学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70383-9|
