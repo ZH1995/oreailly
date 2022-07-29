@@ -1,9 +1,9 @@
 # oreailly
 oraiily books collection
 
-|年份|书名|链接|状态|
-|--|--|--|--|
-|2022|《Cassandra权威指南（第三版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6643-3|✔️|
+|年份|书名|链接|状态|中文|英文
+|--|--|--|--|--|--|
+|2022|《Cassandra权威指南（第三版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6643-3|
 |2022|《数据自助服务实践指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70385-3|
 |2022|《Go语言学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70383-9|
 |2022|《云端基因组学》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6442-2|
@@ -40,7 +40,7 @@ oraiily books collection
 |2021|《微服务与事件驱动架构》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-57110-6|
 |2021|《Java技术手册（原书第7版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68990-4|
 |2021|《Laravel入门与实战（第2版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-121-41757-3|
-|2021|《Helm学习指南：Kubernetes上的应用程序管理》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68995-9|
+|2021|《Helm学习指南：Kubernetes上的应用程序管理》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68995-9||✔️|
 |2021|《Google系统架构解密：构建安全可靠的系统》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-56925-7|
 |2021|《服务设计方法与项目实践》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-302-57528-3|
 |2021|《Apache OpenWhisk学习手册》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5481-2|
@@ -53,7 +53,7 @@ oraiily books collection
 |2021|《C# 8.0核心技术指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68256-1|
 |2021|《软件架构：架构模式、特征及实践指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68219-6|
 |2021|《量子计算机编程：从入门到实践》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-56635-5|
-|2021|《基于Kubernetes的云原生DevOps》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5704-2|
+|2021|《基于Kubernetes的云原生DevOps》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5704-2||✔️|
 |2021|《混沌工程：复杂系统韧性实现之道》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-68273-8|
 |2021|《React学习手册（第二版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-5654-0|
 |2021|《Node与Express开发（第2版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-56509-9|
