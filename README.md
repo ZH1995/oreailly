@@ -99,7 +99,7 @@ oraiily books collection
 |2020|《AI重新定义企业》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-66586-1|
 |2020|《监控运维实践：原则与策略》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-55075-0|
 |2020|《Web前端工程师修炼之道（原书第5版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-66772-8|
-|2020|《Istio学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-66656-1|
+|2020|《Istio学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-66656-1||✔️|
 |2020|《产品设计：杰出设计师的黄金法则》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-55030-9|
 |2020|《数据库可靠性工程：数据库系统设计与运维指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-54886-3|
 |2020|《Java性能优化实践：JVM调优策略、工具与技巧》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-55233-4|
