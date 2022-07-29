@@ -1,11 +1,11 @@
 # oreailly
-oraiily books collection
+oreaiily books collection
 
 |年份|书名|链接|中文|英文
 |--|--|--|--|--|
 |2022|《Cassandra权威指南（第三版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6643-3|
 |2022|《数据自助服务实践指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70385-3|
-|2022|《Go语言学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70383-9|
+|2022|《Go语言学习指南》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-111-70383-9||✔️|
 |2022|《云端基因组学》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6442-2|
 |2022|《Head First C#（第四版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-5198-6448-4|
 |2022|《Java性能权威指南（第2版）》|http://www.oreilly.com.cn/index.php?func=book&isbn=978-7-115-58736-7|
